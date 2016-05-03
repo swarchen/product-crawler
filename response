@@ -1,0 +1,1048 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <!-- Meta Start -->
+    <meta charset="utf-8" />
+    <meta http-equiv="content-language" content="zh-tw" />
+    <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no,maximum-scale=1.0" />
+    
+        <meta name="description" content="在狩獵隊雜貨有很多預購優惠商品可以挑選,快來選購吧!!">
+        <meta property="og:image" content="http://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/2077666/0/230051?v=1">
+    <meta property="og:image" content="http://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/2077665/0/230059?v=1">
+    <meta property="og:image" content="http://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/2077664/0/230107?v=1">
+    <meta property="og:image" content="http://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/2077663/0/230115?v=1">
+    <meta property="og:image" content="http://diz36nn4q02zr.cloudfront.net/webapi/imagesV3/Cropped/SalePage/2077662/0/230125?v=1">
+    <meta property="og:image" content="http://diz36nn4q02zr.cloudfront.net/webapi/images/t/512/512/ShopIcon/1769/0/210408">
+
+
+        <meta name="keywords" content="預購優惠,特別活動">
+    <!-- Meta End -->
+    <!-- Title Start -->
+    <title>
+預購優惠 - 狩獵隊雜貨
+    </title>
+    <!-- Title End -->
+    <!-- Link Start -->
+        <link rel="icon" href="http://diz36nn4q02zr.cloudfront.net/webapi/images/o/16/16/ShopFavicon/1769/1769favicon?v=201604261920" />
+        <link rel="shortcut icon" href="http://diz36nn4q02zr.cloudfront.net/webapi/images/o/16/16/ShopFavicon/1769/1769favicon?v=201604261920" />
+
+    <link rel="apple-touch-icon" href="//diz36nn4q02zr.cloudfront.net/webapi/images/t/512/512/ShopIcon/1769/0/210408" />
+    <link rel="apple-touch-icon-precomposed" href="//diz36nn4q02zr.cloudfront.net/webapi/images/t/512/512/ShopIcon/1769/0/210408" />
+
+    <style>
+        .ng-cloak {
+            display: none;
+        }
+        .browser-invalid-info{
+            display: none;
+        }
+    </style>
+
+   <!--[if lte IE 9]>
+        <style>
+            .show-when-lower-ie {
+                display: block !important;
+                line-height: 2;
+                padding-left: 10px;
+            }
+
+            .hide-when-lower-ie {
+                display: none !important;;
+            }
+        </style>
+    <![endif]-->
+
+    <!-- 官網 Css Start -->
+    <link href="/V2/bundles/css/official/base?v=HEcQf6Df10sxxRNSnUBfUgT-45atFOzKyI1sqDyvRNw1" rel="stylesheet"/>
+
+
+    <!-- 官網加載 HeaderStyle色碼Css -->
+        <link href="/V2/Styles/Controller/officialThemeCyan.css?v=0" rel="stylesheet" />
+
+    <!-- 官網 Css End -->
+    
+
+    <link rel="canonical" href="http://patternsafari.91app.com/v2/official/SalePageCategory/87757" />
+
+    
+
+    <!--  Link End -->
+    <!--Universal Google Analytics Start-->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        var GoogleAnalyticsSettingData = {
+            GoogleAnalyticsTrackingId:'UA-61074769-19',
+            CookieDomainSetting:'auto',
+            AllSiteGATrackingId:'UA-40421750-10',
+            originDomain:'',
+            officialSsoDomain:'service.91app.com'
+        };
+    </script>
+    <!--Universal Google Analytics End-->
+    <!--Facebook Pixel Code Start-->
+    <script>
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+                n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+            n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+                document,'script','//connect.facebook.net/en_US/fbevents.js');
+        var FbCustomAudiencesPixelIds = JSON.parse('["481444228684053"]');
+        var AllSiteFbCustomAudiencesPixelId = '1021834927899745';
+        FbCustomAudiencesPixelIds.push(AllSiteFbCustomAudiencesPixelId);
+    </script>
+    <!-- End Facebook Pixel Code End-->
+    <meta name="msvalidate.01" content="1F70AEFB7989C2059273C4C3B3D1D480" />
+</head>
+<body data-ng-app="NineYi.Mall" class="nine-yi-official">
+        <!-- Google Tag Manager -->
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PLS4CM"
+                          height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-PLS4CM');</script>
+        <!-- End Google Tag Manager -->
+    <div class="show-when-lower-ie" style="display: none;">
+        <h2 style="font-size: 20px;">為了提昇人類世界進化的速度, 本公司不再支援過舊的瀏覽器, 請更換您的瀏覽器, 以獲得更佳的使用者體驗!</h2>
+        <p>Chrome: <a href="https://www.google.com/chrome/browser/desktop/index.html">https://www.google.com/chrome/browser/desktop/index.html</a></p>
+        <p>Firefox: <a href="https://www.mozilla.org/zh-TW/firefox/new/">https://www.mozilla.org/zh-TW/firefox/new/</a></p>
+    </div>
+    <div class="layout-wrapper hide-when-lower-ie ng-cloak" data-ng-controller="OfficialWrapperController as OfficialWrapperCtrl">
+        <!-- BTS13812 是否有App判斷 -->
+            <div class="top-ad"  >
+                <div ng-controller="OfficialDownloadAppController as OfficialDownloadAppCtrl">
+    <div id="top" data-ng-if="!hideAppDownload"  class="top-link2 ad-box" >
+        <div class="watermask">
+            <div class="icontitle">
+                    <a data-ng-click="OfficialDownloadAppCtrl.SetAdHide()" class="icon icon-close sd-close"></a>
+                <img src="//diz36nn4q02zr.cloudfront.net/webapi/images/t/512/512/ShopIcon/1769/0/210408" width="50" height="50">
+                <span>
+                    <a class="iconShopNmae" data-ng-click="OfficialDownloadAppCtrl.TrackEvent('header_APP下載(Mobile)','click','下載/開啟')" href="/ref/1769/shophome/1769">
+                        {{OfficialDownloadAppCtrl.appName}}
+                    </a>
+                    <a class="iconSubtitle">
+                        {{OfficialDownloadAppCtrl.deviceOS === 'ios' ? '取得-App store' : '前往Google play商店取得'}}
+                    </a>
+                </span>
+                <div class="ad-btn">
+                    <a data-ng-class="{'ios':'iosBtn','android':'androidBtn'}[OfficialDownloadAppCtrl.deviceOS]"
+                       data-ng-click="OfficialDownloadAppCtrl.TrackEvent('header_APP下載(Mobile)','click','下載/開啟')"
+                       href="/ref/1769/shophome/1769">
+
+                        <i data-ng-if="OfficialDownloadAppCtrl.deviceOS === 'ios'"  class="iosBtnIcon"></i>
+                        {{OfficialDownloadAppCtrl.deviceOS === 'ios' ? '取得' : '安裝'}}
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+            </div>
+        
+        <div class="layout-top">
+            <div class="layout-header" data-ng-controller="OfficialHeaderController as OfficialHeaderCtrl"
+     data-ns-affix
+     data-effect-class-name="hide-nav"
+     data-offset-y="215">
+    <div class="inner-wrap" id="officialHeader">
+            <header class="logo-container">
+                <a href="/v2/official" title="狩獵隊雜貨" class="logo-link">
+                    <img src="http://diz36nn4q02zr.cloudfront.net/webapi/images/s/ShopOfficialLogo/1769/1769logo?v=201604261920" alt="預購優惠" class="logo-img" data-ng-click="OfficialHeaderCtrl.TrackEvent('Logo','click','LOGO點擊',1)">
+                </a>
+            </header>
+        <div class="search-area">
+            <a class="search-link"
+               data-ng-click="OfficialHeaderCtrl.showSearchArea();">
+                <div><i class="fa fa-search"></i></div>
+            </a>
+            <section class="search-section">
+                <form id="headersearch" class="ns-search-pc">
+                    <div class="wrapper">
+                        <ns-search></ns-search>
+                    </div>
+                </form>
+            </section>
+        </div>
+
+        <ul class="horizontal-ul operate-container">
+            <li class="horizontal-li"
+                data-ng-class="{'has-hover': !OfficialHeaderCtrl.isTouchDevice}">
+                <a data-ng-href="/V2/ShoppingCart/Index?shopId={{::OfficialHeaderCtrl.ShopId}}#/Info/Index"
+                   class="horizontal-link shopping-cart"
+                   data-ng-click="OfficialHeaderCtrl.TrackEvent('購物車','click','購物車視窗開啟',1)"
+                   data-ng-mouseenter="OfficialHeaderCtrl.LoadShoppingCartPreview()">
+                    <i class="fa fa-shopping-cart"></i>
+                    <span class="show-at-mobile shopping-cart-count"
+                          data-ng-class="{'has-data': OfficialHeaderCtrl.ShoppingCartCount !== 0}">
+                        {{OfficialHeaderCtrl.ShoppingCartCount}}
+                    </span>
+                    <span class="hide-at-mobile">
+                        購物車
+                        <span class="shopping-cart-count-pc">{{ OfficialHeaderCtrl.ShoppingCartCount }}</span>
+                    </span>
+                </a>
+                <!--dropdown購物車-->
+                <div class="add-cart-menu drop-down-content" data-ng-if="OfficialHeaderCtrl.deviceSize !== 'mobile'">
+                    <h3 data-ng-if="OfficialHeaderCtrl.ShoppingCartPreviewData.ShopList.length !== 0">最新加入項目</h3>
+                    <ul class="list-thumbs-pro"
+                        data-ng-class="{ 'loading-background' : !OfficialHeaderCtrl.ShoppingCartPreviewData }">
+                        <li class="product"
+                            data-ng-if="OfficialHeaderCtrl.ShoppingCartPreviewData.ShopList.length === 0">
+                            購物車內目前沒有商品
+                        </li>
+                        <!-- 購物車項目 -->
+                        <li class="product"
+                            data-ng-repeat="SalePage in OfficialHeaderCtrl.ShoppingCartPreviewData.ShopList[0].SalePageList">
+                            <div class="product-thumb-info">
+                                <!-- 從購物車移除 -->
+                                <a class="product-remove"
+                                   data-ng-click="OfficialHeaderCtrl.RemoveFromShoppingCart($index, SalePage)">
+                                    <i class="fa fa-trash-o"></i>
+                                </a>
+                                <a data-ng-href="/SalePage/Index/{{ ::SalePage.SalePageId }}">
+                                    <!-- 商品圖 -->
+                                    <div class="product-thumb-info-image">
+                                        <img alt="商品頁圖片" width="60" data-ng-src="{{ ::SalePage.PicUrl }}">
+                                    </div>
+                                    <!-- 商品資訊 -->
+                                    <div class="product-thumb-info-content">
+                                        <h4 class="product-info-title">{{ ::SalePage.Title }}</h4>
+                                        <span class="price">{{ ::SalePage.Price | nsPrice }}</span>
+                                    </div>
+                                </a>
+                            </div>
+                        </li>
+                    </ul>
+                    <div class="cart-buttons">
+                        <button class="btn btn-check has-hover"
+                                data-ng-if="OfficialHeaderCtrl.ShoppingCartPreviewData.ShopList[0].SalePageList.length > 0"
+                                data-ng-click="OfficialHeaderCtrl.TrackEvent('header_購物車','click','結帳btn',3);OfficialHeaderCtrl.CheckOut()">
+                            結帳
+                        </button>
+                    </div>
+                </div>
+                <!--dropdown購物車  end -->
+            </li>
+            <li class="horizontal-li"
+                data-ng-class="{'has-hover': !OfficialHeaderCtrl.isTouchDevice}">
+                <a class="horizontal-link init-cursor"
+                   data-ng-mouseenter="OfficialHeaderCtrl.LoadTraceSalePageListCount()" rel="nofollow"
+                   data-ns-touch="OfficialHeaderCtrl.showTouchMyAccount = !OfficialHeaderCtrl.showTouchMyAccount; OfficialHeaderCtrl.LoadTraceSalePageListCount(); $event.preventDefault(); $event.stopPropagation()">
+                    <i class="fa fa-user"></i>
+                    <span class="hide-at-mobile">我的帳戶</span>
+                </a>
+                <!--dropdown我的帳戶-->
+                <div class="my-account-menu drop-down-content"
+                     data-ng-class="{'on-touch-device': OfficialHeaderCtrl.showTouchMyAccount}">
+                    <ul class="login-account">
+                        <li class="drop-down-li">
+                            <a data-ng-click="OfficialHeaderCtrl.TrackEvent('header_我的帳戶','click','訂單查詢',1)"
+                               href="/TradesOrder/TradesOrderList" rel="nofollow"
+                               class="drop-down-link">訂單查詢</a>
+                        </li>
+                        <li class="drop-down-li">
+                            <a data-ng-href="/V2/VipMember/VIPMemberRelay?shopId={{::OfficialHeaderCtrl.ShopId}}" rel="nofollow"
+                               class="drop-down-link">會員專區</a>
+                        </li>
+                        <li class="drop-down-li">
+                            <a data-ng-click="OfficialHeaderCtrl.TrackEvent('header_我的帳戶','click','我的收藏',1)"
+                               href="/TraceSalePageList/TraceSalePageList" rel="nofollow"
+                               class="drop-down-link">我的收藏({{ OfficialHeaderCtrl.TraceSalePageListCount }})</a>
+                        </li>
+                        <li class="drop-down-li">
+                            <a data-ng-click="OfficialHeaderCtrl.TrackEvent('header_我的帳戶','click','我的折價券',1)"
+                               href="/ECoupon/MyECoupon" rel="nofollow"
+                               class="drop-down-link">我的折價券</a>
+                        </li>
+                        <li class="drop-down-li">
+                            <a class="drop-down-link" rel="nofollow"
+                               data-ng-if="OfficialHeaderCtrl.IsLogin"
+                               data-ng-click="OfficialHeaderCtrl.TrackEvent('header_我的帳戶','click','登出',1);OfficialHeaderCtrl.Logout()">會員登出</a>
+                            <a class="drop-down-link" rel="nofollow"
+                               data-ng-if="!OfficialHeaderCtrl.IsLogin"
+                               data-ng-click="OfficialHeaderCtrl.TrackEvent('header_我的帳戶','click','header＿登入',1);OfficialHeaderCtrl.Login()">會員登入/註冊</a>
+                        </li>
+                    </ul>
+                </div>
+                <!--dropdown我的帳戶  end -->
+            </li>
+            <!-- 免費試用&官網不顯示 -->
+            <!-- BTS13812 是否有App判斷 -->
+            <li class="horizontal-li" data-ng-if="OfficialHeaderCtrl.deviceSize !== 'mobile'"
+                    data-ng-mouseleave="OfficialHeaderCtrl.showTouchDownloadApp = false"
+                    data-ng-mouseover="OfficialHeaderCtrl.showTouchDownloadApp = true">
+                <a class="horizontal-link init-cursor">
+                    <i class="fa fa-mobile"></i>
+                    <span>官方APP</span>
+                </a>
+                <!--dropdown官網App-->
+                <div class="download-app-menu" data-ng-if="OfficialHeaderCtrl.showTouchDownloadApp || OfficialHeaderCtrl.isFocusInput">
+                    <i class="menu-close icon icon-close"
+                       data-ng-click="OfficialHeaderCtrl.showTouchDownloadApp=!OfficialHeaderCtrl.showTouchDownloadApp">
+                   </i>
+
+                    <div class="menu-text">輸入手機下載官方APP，購物更便利 </div>
+                    <input class="menu-input"
+                           data-ng-model="OfficialHeaderCtrl.cellphone"
+                           data-ng-focus="OfficialHeaderCtrl.isFocusInput = true"
+                           data-ng-blur="OfficialHeaderCtrl.isFocusInput = false"
+                           type="tel"
+                           name="phoneInput"
+                           placeholder="請輸入您的手機號碼" />
+                    <a class="menu-btn" data-ng-click="OfficialHeaderCtrl.sendDownloadMessage();OfficialHeaderCtrl.TrackEvent('header_APP下載(PC)','click','傳送載點');">免費傳送載點至手機</a>
+                    <div class="menu-link">
+                        <a href="https://itunes.apple.com/tw/app/id1087673916" target="_blank"
+                            data-ng-click="OfficialHeaderCtrl.TrackEvent('header_APP下載(PC)','click','AppleStore')">
+                            <i class="app-store-svg apple"></i>
+                        </a>
+                        <a href="https://play.google.com/store/apps/details?id=com.nineyi.shop.s001769" target="_blank"
+                            data-ng-click="OfficialHeaderCtrl.TrackEvent('header_APP下載(PC)','click','GooglePlay')">
+                            <i class="app-store-svg google"></i>
+                        </a>
+                    </div>
+                </div>
+                <!--dropdown官網App  end -->
+            </li>
+
+        </ul>
+        <nav class="layout-nav">
+            <h2 class="outline">網站主選單</h2>
+            <ul class="horizontal-ul">
+                <li class="horizontal-li"
+                    data-ng-class="{'not-touch-device': !OfficialHeaderCtrl.isTouchDevice, 'is-touch-device': OfficialHeaderCtrl.isTouchDevice}">
+                    <a class="horizontal-link"
+                       data-ng-mouseenter="OfficialHeaderCtrl.showBars = true"
+                       data-ng-mouseleave="OfficialHeaderCtrl.showBars = false"
+                       data-ng-click="OfficialHeaderCtrl.OpenMainMenu(); $event.preventDefault(); $event.stopPropagation()">
+                        <i class="fa fa-bars" data-ng-if="!OfficialHeaderCtrl.showMainMenu && OfficialHeaderCtrl.showBars && OfficialHeaderCtrl.deviceSize === 'pc'"></i>
+                        <i class="fa fa-times" data-ng-if="OfficialHeaderCtrl.showMainMenu && OfficialHeaderCtrl.deviceSize !== 'mobile'"></i>
+                        商品分類
+                    </a>
+                    <!--分類側欄-->
+                    <div class="menu-list fix-menu"
+                         data-ng-class="{'open-from-left': OfficialHeaderCtrl.showMainMenu && OfficialHeaderCtrl.deviceSize === 'mobile', 'open-from-top': OfficialHeaderCtrl.showMainMenu && OfficialHeaderCtrl.deviceSize !== 'mobile'}">
+                        <a class="close-full-screen-btn show-at-mobile"
+                           data-ng-click="OfficialHeaderCtrl.showMainVision(true);OfficialHeaderCtrl.TrackEvent('header_商品分類','click','關閉視窗' ,1);OfficialHeaderCtrl.showMainMenu = false; OfficialHeaderCtrl.UnFreezeBody();OfficialHeaderCtrl.hideMainVision(); $event.preventDefault(); $event.stopPropagation()">
+                            ╳
+                        </a>
+                        <div class="menu-list-container"
+                             data-ng-if="OfficialHeaderCtrl.deviceSize !== 'mobile' || OfficialHeaderCtrl.bindShopCategory">
+                            <ul class="menu-ul">
+                                <li class="menu-li"
+                                    data-ng-repeat="level1 in ::OfficialHeaderCtrl.ShopCategoryObj.List track by (level1.ShopCategory_ParentId + level1.ShopCategory_Id)">
+                                    <a class="menu-link"
+                                       data-ng-class="{'open': level1.selected, 'close': !level1.selected && level1.ChildList.length > 0}"
+                                       data-ng-click="OfficialHeaderCtrl.TrackEvent('header_商品分類','click',level1.ShopCategory_Name,1);OfficialHeaderCtrl.selectLevel1List(level1, '')">
+                                        <h4 class="menu-item-name" data-ng-cloak>{{::level1.ShopCategory_Name}}</h4>
+                                        <span class="specialtag" data-ng-if="OfficialHeaderCtrl.DiscountPriceList.indexOf(level1.ShopCategory_Id) >= 0&&OfficialHeaderCtrl.FreeGiftList.indexOf(level1.ShopCategory_Id) == -1">折扣</span>
+                                        <span class="specialtag coralpink" data-ng-if="OfficialHeaderCtrl.DiscountPriceList.indexOf(level1.ShopCategory_Id) == -1&&OfficialHeaderCtrl.FreeGiftList.indexOf(level1.ShopCategory_Id) >= 0">贈禮</span>
+                                        <span class="specialtag scarlet" data-ng-if="OfficialHeaderCtrl.DiscountPriceList.indexOf(level1.ShopCategory_Id) >= 0&&OfficialHeaderCtrl.FreeGiftList.indexOf(level1.ShopCategory_Id) >= 0">折+贈</span>
+                                    </a>
+                                    <ul class="child-menu-ul"
+                                        data-ng-class="{'open': level1.selected, 'close': !level1.selected && level1.ChildList.length > 0}">
+                                        <li class="child-menu-li" data-ng-repeat="level2 in ::level1.ChildList track by (level2.ShopCategory_ParentId + level2.ShopCategory_Id)">
+                                            <a class="child-menu-link"
+                                               data-ng-href="/v2/official/SalePageCategory/{{::level2.ShopCategory_Id}}"
+                                               data-ng-click="OfficialHeaderCtrl.TrackEvent('header_商品分類','click',level2.ShopCategory_Name,1)">
+                                                <h4 class="menu-item-name" data-ng-cloak>{{::level2.ShopCategory_Name}}</h4>
+                                                <span class="specialtag" data-ng-if="OfficialHeaderCtrl.DiscountPriceList.indexOf(level2.ShopCategory_Id) >= 0&&OfficialHeaderCtrl.FreeGiftList.indexOf(level2.ShopCategory_Id) == -1">折扣</span>
+                                                <span class="specialtag coralpink" data-ng-if="OfficialHeaderCtrl.DiscountPriceList.indexOf(level2.ShopCategory_Id) == -1&&OfficialHeaderCtrl.FreeGiftList.indexOf(level2.ShopCategory_Id) >= 0">贈禮</span>
+                                                <span class="specialtag scarlet" data-ng-if="OfficialHeaderCtrl.DiscountPriceList.indexOf(level2.ShopCategory_Id) >= 0&&OfficialHeaderCtrl.FreeGiftList.indexOf(level2.ShopCategory_Id) >= 0">折+贈</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="horizontal-li" data-ng-repeat="item in OfficialWrapperCtrl.OfficialCustomLinkList | orderBy: 'Code'">
+                    <a class="horizontal-link"
+                       data-ng-href="{{::item.Data[0].Link}}"
+                       data-ng-bind="::item.Data[0].Title"
+                       data-ng-click="OfficialHeaderCtrl.TrackEvent('header_廣告', 'click', item.Data[0].Title, 1)"></a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    <!--手機版的搜尋-->
+    <section id="hsearch" class="search-area-full-screen" style="display: none">
+        <form id="headersearch" class="ns-search-mobile" action="#">
+            <div class="wrapper open-full-screen" style="display: block;overflow-y: auto">
+                <a class="close-full-screen-btn"
+                   data-ng-click="OfficialHeaderCtrl.hideSearchArea(); $event.preventDefault()">╳</a>
+                <ns-search></ns-search>
+            </div>
+        </form>
+    </section>
+
+    <div ns-browsing-history data-ng-if="OfficialWrapperCtrl.showBrowsingHistory && OfficialWrapperCtrl.DeviceSize === 'pc'"></div>
+</div>
+
+        </div>
+        <!-- 載入動畫隱藏區域 -->
+        <div class="loading-area" data-ng-class="{'finish-loading':!IsStillLoading,'is-loading':IsStillLoading ,'fix-hide-app-download': hideAppDownload,'fix-show-app-download': !hideAppDownload}">
+            
+            
+            <!-- 麵包屑 -->
+            
+    <div class="location-bar" data-ng-click="OfficialWrapperCtrl.ShowMenu();OfficialWrapperCtrl.MobileTrackEvent('小分類頁', 'Path', '點擊更多分類')" >
+        <ol class="control-width breadcrumb">
+              <li class="mobile-hidden" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                  <a  href="/v2/official"
+                      data-ng-click="OfficialWrapperCtrl.TrackEvent('小分類頁', 'Path', '點擊首頁')"
+                      itemprop="url">
+                      <span itemprop="title">首頁</span>
+                  </a>
+              </li>
+
+<li class="mobile-hidden" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                          <a  href="/v2/official/SalePageCategory/87756"
+                              data-ng-click="OfficialWrapperCtrl.TrackEvent('小分類頁', 'Path', '點擊分類')"
+                              class="breadcrumb-link"
+                              itemprop="url">
+                              <span itemprop="title">特別活動</span>
+                          </a>
+                      </li>
+<li class="overflow-active" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                          <a  href="/v2/official/SalePageCategory/87757"
+                              data-ng-click="OfficialWrapperCtrl.TrackEvent('小分類頁', 'Path', '點擊分類')"
+                              class="breadcrumb-link"
+                              itemprop="url">
+                              <span itemprop="title">預購優惠</span>
+                          </a>
+                      </li>
+
+        </ol>
+        <div class="more-category hide-at-pc hide-at-pad">
+            <a  class="more-category-link"> 更多分類</a>
+            <i class="fa fa-angle-right"></i>
+        </div>
+    </div>
+
+
+            
+
+<!-- 分類側欄 -->
+<aside id="sidemenu" class="layout-aside"
+       data-ng-controller="ShopCategoryController as ShopCategoryCtrl"
+       data-ns-fixed-aside
+       data-competitor=".layout-content .right-sub-content">
+    <div class="aside-section menu-list"
+         data-ng-if="ShopCategoryCtrl.DeviceSize !== 'mobile'">
+        <ul class="menu-ul">
+            <li class="menu-li" data-ng-repeat="level1 in ::ShopCategoryCtrl.ShopCategoryObj.List track by (level1.ShopCategory_ParentId + level1.ShopCategory_Id)">
+              <a class="menu-link"
+                   data-ng-class="{'open': level1.selected, 'close': !level1.selected && level1.ChildList.length > 0, 'link-active': level1.active}"
+                   data-ng-click="ShopCategoryCtrl.TrackEvent('left_商品分類','click',level1.ShopCategory_Name,1);ShopCategoryCtrl.selectLevel1List(level1, '')">
+                    <h4 class="menu-item-name" data-ng-cloak>{{::level1.ShopCategory_Name}}</h4>
+                    <span class="specialtag" data-ng-if="ShopCategoryCtrl.DiscountPriceList.indexOf(level1.ShopCategory_Id) >= 0&&ShopCategoryCtrl.FreeGiftList.indexOf(level1.ShopCategory_Id) == -1">折扣</span>
+                    <span class="specialtag coralpink" data-ng-if="ShopCategoryCtrl.DiscountPriceList.indexOf(level1.ShopCategory_Id) == -1&&ShopCategoryCtrl.FreeGiftList.indexOf(level1.ShopCategory_Id) >= 0">贈禮</span>
+                    <span class="specialtag scarlet" data-ng-if="ShopCategoryCtrl.DiscountPriceList.indexOf(level1.ShopCategory_Id) >= 0&&ShopCategoryCtrl.FreeGiftList.indexOf(level1.ShopCategory_Id) >= 0">折+贈</span>
+              </a>
+              <ul class="child-menu-ul"
+                    data-ng-class="{'open': level1.selected, 'close': !level1.selected && level1.ChildList.length > 0}">
+                    <li class="child-menu-li" data-ng-repeat="level2 in ::level1.ChildList track by (level2.ShopCategory_ParentId + level2.ShopCategory_Id)">
+                        <a class="child-menu-link"
+                           data-ng-class="{'link-active': level2.active}"
+                           data-ng-href="/v2/official/SalePageCategory/{{::level2.ShopCategory_Id}}"
+                           data-ng-click="ShopCategoryCtrl.TrackEvent('left_商品分類','click',level2.ShopCategory_Name,1)">
+                            <h4 class="menu-item-name" data-ng-cloak>{{::level2.ShopCategory_Name}}</h4>
+                            <span class="specialtag" data-ng-if="ShopCategoryCtrl.DiscountPriceList.indexOf(level2.ShopCategory_Id) >= 0&&ShopCategoryCtrl.FreeGiftList.indexOf(level2.ShopCategory_Id) == -1">折扣</span>
+                            <span class="specialtag coralpink" data-ng-if="ShopCategoryCtrl.DiscountPriceList.indexOf(level2.ShopCategory_Id) == -1&&ShopCategoryCtrl.FreeGiftList.indexOf(level2.ShopCategory_Id) >= 0">贈禮</span>
+                            <span class="specialtag scarlet" data-ng-if="ShopCategoryCtrl.DiscountPriceList.indexOf(level2.ShopCategory_Id) >= 0&&ShopCategoryCtrl.FreeGiftList.indexOf(level2.ShopCategory_Id) >= 0">折+贈</span>
+                        </a>
+                    </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+    <!-- BTS13812 是否有App判斷 -->
+        <!--QRcode-->
+        <div id="qrcode" class="aside-section" data-ng-if="ShopCategoryCtrl.DeviceSize !== 'mobile'">
+            <section class="section-board board-block">
+                <h2 class="section-title">手機掃描QRcode 立即下載</h2>
+                <ul class="section-ul clear-float">
+                    <li class="p-50 left">
+                        <a href="/ref/1769/shophome/1769">
+                            <img alt="91mai-qrcode-img" name="91mai_qrcode" src="data:image/gif;base64,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" />
+                        </a>
+                    </li>
+                    <li class="p-50 right">
+                        <a href="https://play.google.com/store/apps/details?id=com.nineyi.shop.s001769" target="_blank">
+                            <i class="app-store google"></i>
+                        </a>
+                        <a href="https://itunes.apple.com/tw/app/id1087673916" target="_blank">
+                            <i class="app-store apple"></i>
+                        </a>
+                    </li>
+                </ul>
+            </section>
+        </div>
+        <!--QRcode end-->
+    <!--手機版的主視覺-->
+    <section class="aside-section show-at-mobile"
+             data-ns-ad-board data-use-all-device="true"
+             data-ng-model="ShopCategoryCtrl.LayoutTemplateDataList"
+             data-ad-code="MobileHome_SpImage"
+             data-hd-ad-code="MobileHome_SpImage">
+        <figure class="mainwrap" data-ng-if="boardDataList.length>0">
+            <a data-ng-href="{{::boardDataList[0].Link}}">
+                <img data-ng-src="{{::boardDataList[0].PicturePath.FullUrl | nsOptimizeImage}}"
+                     data-ns-lazy-image="{{::boardDataList[0].PicturePath.FullUrl| nsInitImageSize}}"
+                     alt="{{::boardDataList[0].Title}}">
+            </a>
+        </figure>
+    </section>
+
+    <!--活動頁 start-->
+    <div class="aside-section aside-section-top hide-at-mobile" data-ng-if="ShopCategoryCtrl.ActivityList.length > 0">
+        <h2 class="aside-section-title"><i class="icon icon-activity"></i>最新活動</h2>
+    </div>
+    <div class="aside-section menu-list hide-at-mobile" data-ng-if="ShopCategoryCtrl.ActivityList.length > 0">
+        <ul class="menu-ul" style="padding-top: 0px; margin-top: -11px">
+            <li class="menu-li" data-ng-repeat="activity in ::ShopCategoryCtrl.ActivityList">
+                <a class="menu-link" data-ng-href="{{::activity.Activity_Url}}" target="_blank">
+                    <h4 class="menu-item-name" ng-cloak>{{::activity.Activity_Name}}</h4>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <!--活動頁 end-->
+
+    <!--滿件折扣 start-->
+    <div id="promotion-container" class="aside-slider">
+        <div class="aside-section aside-section-top margin-bottom-init" data-ng-if="ShopCategoryCtrl.PromotionList.length>0">
+            <h2 class="aside-section-title"><i class="icon icon-discount"></i>折扣活動</h2>
+            <a class="see-more"
+               data-ng-if="ShopCategoryCtrl.OriginPromotionListLength > 5 || (ShopCategoryCtrl.DeviceSize === 'mobile' && ShopCategoryCtrl.OriginPromotionListLength > 1)"
+               href="/Promotion/PromotionList"
+               data-ng-click="ShopCategoryCtrl.TrackEvent('折扣活動','click','看更多折扣' ,1)">
+                更多活動<i class="fa fa-angle-right"></i>
+            </a>
+        </div>
+        <section class="aside-section"
+                 data-ng-if="ShopCategoryCtrl.PromotionList.length > 0">
+            <div id="promotion-slider" class="ns-sliders">
+                <div class="slider-wrap">
+                    <div class="holder"
+                         data-ns-lazy-load="sleeping-img"
+                         data-offset-y=-100>
+                        <div class="slide-wrap slide-card"
+                             data-ng-repeat="item in ::ShopCategoryCtrl.PromotionList | limitTo:5"
+                             data-ng-class="{'single-slide-wrap': ShopCategoryCtrl.PromotionList.length === 1}">
+                            <!--商品和贈品合併-->
+                            <a class="slide-link"
+                               data-ng-href="/promotion/detail/{{::item.Id}}"
+                               data-ng-click="ShopCategoryCtrl.TrackEvent('折扣活動','click',item.PromotionDisplayName ,1)">
+                                <img class="slide-image sleeping-img"
+                                     src="/v2/Content/Images/defaultSquareImage.gif"
+                                     data-temp-src="{{::item.IconUrl}}"
+                                     alt="{{::item.Title}}"/>
+                                <div class="slide-desc">{{::item.Title}}</div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <p class="total-info"
+               data-ng-if="ShopCategoryCtrl.OriginPromotionListLength > 5 && ShopCategoryCtrl.DeviceSize !== 'mobile'">
+               共{{::ShopCategoryCtrl.OriginPromotionListLength}}個折扣活動
+           </p>
+            <a class="see-more-btn hide-at-mobile"
+               href="/Promotion/PromotionList"
+               data-ng-if="ShopCategoryCtrl.OriginPromotionListLength > 5 && ShopCategoryCtrl.DeviceSize !== 'mobile'">
+                更多折扣活動
+            </a>
+        </section>
+    </div>
+    <!--滿件折扣 end-->
+
+    <!--門市優惠 start-->
+    <div id="coupon-container" class="aside-slider">
+        <div class="aside-section aside-section-top margin-bottom-init"
+             data-ng-if="ShopCategoryCtrl.CouponList.length > 0">
+            <h2 class="aside-section-title"><i class="icon icon-coupon"></i>門市優惠</h2>
+            <a class="see-more"
+               href="/Coupon/List"
+               data-ng-if="ShopCategoryCtrl.OriginCouponListLength > 5 || (ShopCategoryCtrl.DeviceSize === 'mobile' && ShopCategoryCtrl.OriginCouponListLength > 1)"
+               data-ng-click="ShopCategoryCtrl.TrackEvent('門市優惠','click','看更多列表' ,1)">
+                更多優惠券<i class="fa fa-angle-right"></i>
+            </a>
+        </div>
+        <section class="aside-section"
+                 data-ng-if="ShopCategoryCtrl.CouponList.length > 0">
+            <div id="coupon-slider" class="ns-sliders">
+                <div class="slider-wrap">
+                    <div class="holder"
+                         data-ns-lazy-load="sleeping-img"
+                         data-offset-y=-100>
+                        <div class="slide-wrap slide-card"
+                             data-ng-repeat="coupon in ::ShopCategoryCtrl.CouponList track by $index"
+                             data-ng-class="{'single-slide-wrap': ShopCategoryCtrl.CouponList.length === 1}">
+                            <a class="slide-link"
+                               data-ng-href="/Coupon/Detail/{{::coupon.Id}}"
+                               data-ng-click="ShopCategoryCtrl.TrackEvent('門市優惠','click',coupon.Title ,1)">
+                                <img class="slide-image sleeping-img"
+                                     src="/v2/Content/Images/defaultSquareImage.gif"
+                                     data-temp-src="{{::coupon.Gallery}}"
+                                     alt="{{::coupon.Title}}"/>
+                                <div class="slide-desc">
+                                    {{::coupon.Title}}
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a class="see-more-btn"
+               href="/Coupon/List"
+               data-ng-if="ShopCategoryCtrl.OriginCouponListLength > 5 && ShopCategoryCtrl.DeviceSize !== 'mobile'"
+               data-ng-click="ShopCategoryCtrl.TrackEvent('門市優惠','click','更多門市優惠列表' ,1)">
+                更多門市優惠
+            </a>
+        </section>
+    </div>
+    <!--門市優惠 end-->
+
+    <!--折價券 start-->
+    <div id="ecoupon-container" class="aside-slider">
+        <div class="aside-section aside-section-top margin-bottom-init"
+             data-ng-if="ShopCategoryCtrl.OfficialECouponList.length > 0">
+            <h2 class="aside-section-title"><i class="icon icon-ecoupon"></i>折價券</h2>
+            <a class="see-more"
+               href="/ECoupon/List"
+               data-ng-if="ShopCategoryCtrl.OriginECouponListLength >=2 || (ShopCategoryCtrl.DeviceSize === 'mobile' && ShopCategoryCtrl.OriginECouponListLength > 1)"
+               data-ng-click="ShopCategoryCtrl.TrackEvent('折價券','click','看更多列表' ,1)">
+                更多折價券<i class="fa fa-angle-right"></i>
+            </a>
+        </div>
+        <section class="aside-section"
+                 data-ng-if="ShopCategoryCtrl.OfficialECouponList.length > 0">
+            <div id="ecoupon-slider" class="ns-sliders">
+                <div class="slider-wrap">
+                    <div class="holder"
+                         data-ns-lazy-load="sleeping-img"
+                         data-offset-y=-100>
+                        <div class="slide-wrap slide-card"
+                             data-ng-repeat="eCoupon in ::ShopCategoryCtrl.OfficialECouponList track by $index"
+                             data-ng-class="{'single-slide-wrap': ShopCategoryCtrl.OfficialECouponList.length === 1}">
+                            <a class="slide-link"
+                               data-ng-href="/ECoupon/Detail/{{::eCoupon.Id}}"
+                               data-ng-click="ShopCategoryCtrl.TrackEvent('折價券','click',eCoupon.EcouponWording ,1)">
+                                <img class="slide-image sleeping-img"
+                                     src="/v2/Content/Images/defaultRectangleImage.gif"
+                                     data-temp-src="{{::eCoupon.ImgUrl}}"
+                                     alt="{{::eCoupon.EcouponWording}}"/>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a class="see-more-btn"
+               href="/ECoupon/List"
+               data-ng-if="ShopCategoryCtrl.OriginECouponListLength >= 2 && ShopCategoryCtrl.DeviceSize !== 'mobile'"
+               data-ng-click="ShopCategoryCtrl.TrackEvent('折價券','click','看更多折價券' ,1)" >
+                更多折價券
+            </a>
+        </section>
+    </div>
+    <!--折價券 end-->
+
+    <!--fb widget-->
+    <section class="aside-section theme-init padding-init"
+             data-ng-if="ShopCategoryCtrl.DeviceSize !== 'mobile'">
+        <div class="fb-page" data-href="https://www.facebook.com/patternsafari?fref=ts" data-adapt-container-width="true"
+             data-width="380" data-hide-cover="false" data-show-facepile="true"
+             data-show-posts="false"></div>
+    </section>
+    <!--fb widget end-->
+    <!--其它通路-->
+    <section class="aside-section theme-init padding-init hide-at-mobile margin-bottom-init"
+             data-ns-ad-board
+             data-ng-model="ShopCategoryCtrl.LayoutTemplateDataList"
+             data-ad-code="MobileHome_SpSocialImgOfficial"
+             data-hd-ad-code="MobileHome_SpSocialImgOfficial">
+        <ul data-ns-lazy-load="sleeping-img">
+            <li data-ng-repeat="item in ::boardDataList"
+                data-ng-click="$emit('ShopCategoryCtrl.TrackEvent','通路廣告','click','通路廣告'+($index+1),2)">
+                <a data-ng-href="{{::item.Link}}" class="section-link" target="_blank">
+                    <img class="section-img sleeping-img"
+                         src="/v2/Content/Images/defaultSquareImage.gif"
+                         data-temp-src="{{::item.PicturePath.FullUrl | nsInitImageSize}}"
+                         alt="{{::item.Title}}"/>
+                </a>
+            </li>
+        </ul>
+    </section>
+    <!--其它通路 end-->
+</aside>
+
+
+            
+
+
+
+
+
+<h1 class="outline">
+預購優惠
+</h1>
+
+<div class="layout-content margin-top-init" ng-controller="SalePageCategoryController as SalePageCategoryCtrl">
+    <div class="right-sub-content">
+        <div ng-include="'/V2/TypeScripts/Modules/Official/salePageCategory.html'" class="salePageCategory"></div>
+    </div>
+    <div class="left-sub-content">
+    </div>
+</div>
+
+
+            
+<footer class="layout-footer footer-fix-bottom"
+        data-ng-controller="OfficialFooterController as OfficialFooterCtrl"
+        data-ng-class="{'open':OfficialFooterCtrl.isOpen}">
+    <!-- Title -->
+    <div class="footer-top" >
+        <div class="footer-content-container shop-name triangle"
+             data-ng-click="OfficialFooterCtrl.isOpen = !OfficialFooterCtrl.isOpen; $event.preventDefault(); $event.stopPropagation()">
+            <!--http://patternsafari.91app.com-->
+
+            <span class="_hide-at-mobile">
+狩獵隊雜貨            </span>
+            <span>&nbsp;關於我們</span>
+
+        </div>
+        <div class="_hide-at-pc _hide-at-pad footer-top-icon">
+            <!-- BTS13812 是否有App判斷 -->
+                <a href="https://itunes.apple.com/tw/app/id1087673916" target="_blank" class="app-store-svg apple-footer"  data-ng-if="OfficialFooterCtrl.deviceOS === 'ios'"
+                  data-ng-click="OfficialFooterCtrl.TrackEvent('footer_APP下載(Mobile)','click','AppleStore')"></a>
+                <a href="https://play.google.com/store/apps/details?id=com.nineyi.shop.s001769" target="_blank" class="app-store-svg google-footer" data-ng-if="OfficialFooterCtrl.deviceOS === 'android'"
+                  data-ng-click="OfficialFooterCtrl.TrackEvent('footer_APP下載(Mobile)','click','GooglePlay')"></a>
+        </div>
+    </div>
+    <!-- Title End-->
+
+    <!-- Content-->
+    <div class="footer_main">
+        <!-- 下載app 免費試用&官網不顯示-->
+        <!-- BTS13812 是否有App判斷 -->
+            <div id="top" class="footer-ad ad-box _hide-at-pc _hide-at-pad " >
+                <div class="watermask">
+                    <div class="icontitle">
+                        <img src="//diz36nn4q02zr.cloudfront.net/webapi/images/t/512/512/ShopIcon/1769/0/210408" width="42" height="42">
+                        <span >
+                            <a  class="ad-title" href="/ref/1769/shophome/1769"
+                              data-ng-click="OfficialFooterCtrl.TrackEvent('footer_APP下載(Mobile)','click','下載/開啟')">下載APP，購物更便利</a>
+                        </span>
+                        <div class="ad-btn">
+                                <a data-ng-class="{'ios':'iosBtn','android':'androidBtn'}[OfficialFooterCtrl.deviceOS]"
+                                   data-ng-click="OfficialFooterCtrl.TrackEvent('footer_APP下載(Mobile)','click','下載/開啟')"
+                                   href="/ref/1769/shophome/1769">
+
+                                    <i data-ng-if="OfficialFooterCtrl.deviceOS === 'ios'"  class="iosBtnIcon"></i>
+                                    {{OfficialFooterCtrl.deviceOS === 'ios' ? '取得' : '安裝'}}
+                                </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <!-- 下載app廣告 End-->
+        <!-- 關於我-->
+        <div class="footer-content-container">
+            <div class="footer-left">
+                <div class="primary_menu">
+                    <div class="primary_title">
+                        <div class="title-first"
+                             data-ng-click="OfficialFooterCtrl.clickMenuTitle('AboutUs'); OfficialFooterCtrl.SetFooterState(); $event.stopPropagation();">
+                            <i class="fa fa-angle-right"></i>&nbsp;關於我們
+                        </div>
+                    </div>
+                    <div class="primary_content _show-at-pad" id="pc1">
+                        <ul class="content_ul" data-ng-class="{'open': OfficialFooterCtrl.focusMenuItem === 'AboutUs'}">
+                                <li><a href="/v2/Official/BrandStory" data-ng-click="$event.stopPropagation()">品牌故事</a></li>
+                                                            <li><a href="/shop/introduce/1769?t=1" data-ng-click="$event.stopPropagation()">商店簡介</a></li>
+                            <li><a href="/MyAccount/Privacy" data-ng-click="$event.stopPropagation()">隱私權聲明</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="primary_menu">
+                    <div class="primary_title">
+                        <div class="title-first"
+                             data-ng-click="OfficialFooterCtrl.clickMenuTitle ('ShopInfo'); OfficialFooterCtrl.SetFooterState(); $event.stopPropagation();">
+                            <i class="fa fa-angle-right"></i>&nbsp;購物說明
+                        </div>
+                    </div>
+                    <div class="primary_content _show-at-pad" id="pc2">
+                        <ul class="content_ul" data-ng-class="{'open': OfficialFooterCtrl.focusMenuItem === 'ShopInfo'}">
+                            <li><a href="/Shop/Introduce/1769?t=2" data-ng-click="$event.stopPropagation()">付款方式</a></li>
+                            <li><a href="/Shop/Introduce/1769?t=2" data-ng-click="$event.stopPropagation()">運送方式</a></li>
+                            <li><a href="/Shop/Introduce/1769?t=2" data-ng-click="$event.stopPropagation()">退換貨方式</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="primary_menu">
+                    <div class="primary_title">
+                        <div class="title-first"
+                             data-ng-click="OfficialFooterCtrl.clickMenuTitle('ServiceInfo'); OfficialFooterCtrl.SetFooterState(); $event.stopPropagation();">
+                            <i class="fa fa-angle-right"></i>&nbsp;客服資訊
+                        </div>
+                    </div>
+                    <div class="primary_content _show-at-pad" id="pc3">
+                        <ul class="content_ul" data-ng-class="{'open':  OfficialFooterCtrl.focusMenuItem === 'ServiceInfo'}">
+                                <li><a href="http://line.naver.jp/ti/p/@xat.0000111359.vdp" target="_blank" data-ng-click="$event.stopPropagation()">LINE</a></li>
+                            <li><a href="/Question/QuestionInsert/0?sId=1769" data-ng-click="$event.stopPropagation()">客服留言</a></li>
+                            <li><a href="/Question/CustomerServiceCenter" data-ng-click="$event.stopPropagation()">常見問題</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="primary_menu">
+                    <div class="primary_title">
+                        <div class="title-first"
+                             data-ng-click="OfficialFooterCtrl.clickMenuTitle('MyAccount'); OfficialFooterCtrl.SetFooterState(); $event.stopPropagation();">
+                            <i class="fa fa-angle-right"></i>&nbsp;我的帳戶
+                        </div>
+                    </div>
+                    <div class="primary_content _show-at-pad" id="pc4">
+                        <ul class="content_ul" data-ng-class="{'open': OfficialFooterCtrl.focusMenuItem === 'MyAccount'}">
+                            <li><a href="/TradesOrder/TradesOrderList" data-ng-click="$event.stopPropagation()">訂單查詢</a></li>
+                            <li><a href="/TraceSalePageList/TraceSalePageList" data-ng-click="$event.stopPropagation()">收藏商品</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-center"  data-ng-class="{'open': OfficialFooterCtrl.focusMenuItem === ''}">
+                <div class="social-link">
+                    <ul class="social-ul">
+                        <!-- 粉絲團 -->
+                        <li class="social-link">
+                            <a href="https://www.facebook.com/patternsafari" class="facebook" target="_blank"
+                               data-ng-click="$event.stopPropagation()">
+                                Facebook
+                            </a>
+                        </li>
+                        <!-- Line -->
+                        <li class="social-link">
+                            <a href="http://line.naver.jp/ti/p/@xat.0000111359.vdp" class="line" target="_blank"
+                               data-ng-click="$event.stopPropagation()">
+                                LINE
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="shopinfo">
+                        <ul>
+                            <li>
+		                        客服專線 0223037323
+                            </li>
+                            <li>週一～週五，10:00～18:00</li>
+                        </ul>
+                </div>
+                <div class="surf_e hide-at-mobile">本站最佳瀏覽環境請使用Google Chrome、Firefox或IE10以上版本</div>
+                <div class="copyright">
+                    Powered by 91APP
+                </div>
+            </div>
+            <!-- 免費試用不顯示 -->
+            <!-- BTS13812 是否有App判斷 -->
+                <div class="footer-line _hide-at-mobile"></div>
+                <div class="footer-right download-app-menu" data-ng-if="OfficialFooterCtrl.DeviceSize !== 'mobile'">
+                        <div class="menu-text">官方APP</div>
+
+                            <input data-ng-model="OfficialFooterCtrl.cellphone"
+                                type="tel"
+                                class="menu-input"
+                                placeholder="請輸入您的手機號碼"></input>
+                            <a class="menu-btn"
+                                data-ng-click="OfficialFooterCtrl.sendDownloadMessage();OfficialFooterCtrl.TrackEvent('footer_APP下載(PC)','click','傳送載點')">免費傳送載點至手機</a>
+                        <div class="menu-link">
+                                <a href="https://itunes.apple.com/tw/app/id1087673916" target="_blank" data-ng-click="OfficialFooterCtrl.TrackEvent('footer_APP下載(PC)','click','AppleStore')">
+                                    <i class="app-store-svg apple"></i>
+                                </a>
+                                <a href="https://play.google.com/store/apps/details?id=com.nineyi.shop.s001769" target="_blank" data-ng-click="OfficialFooterCtrl.TrackEvent('footer_APP下載(PC)','click','GooglePlay')">
+                                    <i class="app-store-svg google"></i>
+                                </a>
+                        </div>
+                </div>
+        </div>
+        <!-- 關於我End-->
+        <div class="machine-name">
+TYO-MWEB1
+        </div>
+    </div>
+    <!-- Content End-->
+
+    <a class="scroll-to-top hide-over-bottom" data-ns-scroll-to-top>
+        <i class="fa fa-angle-up"></i>
+    </a>
+</footer>
+
+        </div>
+        <div ns-browsing-history data-ng-if="OfficialWrapperCtrl.showBrowsingHistory && OfficialWrapperCtrl.DeviceSize != 'pc'"></div>
+    </div>
+    <!--Debug for mobile device or app webview-->
+
+    <!-- Scripts Start -->
+    <script src="/V2/bundles/common?v=Pq_QSgeqtb-dAT_i4uQ7s6oq74Fz7iyrB4u3-JTRMM41"></script>
+
+    <script src="/V2/bundles/angular?v=_mlg1RBT0xrk0ja-o6ibHgEMn0y_AQacVSKYTxd4feM1"></script>
+
+    <script src="/V2/bundles/angular-ui?v=cthybo_8xPfPqix3_vkMLw7UGlP2UKEH1p_6rGuIpEs1"></script>
+
+    <script src="/V2/bundles/base?v=oW46mBSjrWes3wud5b5Omx5u-bhcjeKuAj4k0W8WCgo1"></script>
+
+    <script src="/V2/bundles/official/base?v=ZbjWoJTUTU4O1O08eTszqjtB3O_p2v1xSzG7yMum1Jg1"></script>
+
+    <script>
+        (function () {
+            var gaUtility = new NineYi.Mall.Utilities.GoogleAnalyticsUtility();
+            gaUtility.InitGoogleAnalytics();
+            var fbUtility = new NineYi.Mall.Utilities.FacebookUtility();
+            fbUtility.InitFacebook();
+        })();
+    </script>
+    
+    <script src="/V2/bundles/official/salePageCategory?v=SPcc9_ZePJ-rRo1WQbUEup6BI6u0eLaHw-APg7otBhk1"></script>
+
+
+    <script>
+        //// 因為要highlight側欄分類, 所以需要CategoryId
+        //// 因為新舊頁面處理CategoryId方式不同,為了要符合兩者(新頁面是ng的inject方式, 舊頁面沒有用ng所以目前是用全域變數方式)
+        //TODO: 當舊頁面翻過來ng的時候要把用全域變數的方式拿掉
+        var nineYiOfficial = {
+            shopCategoryId: "87757"
+        };
+
+        (function () {
+            angular.module('NineYi.Mall', ['NineYi.Mall.Controllers', 'NineYi.Mall.Directives', 'NineYi.Mall.Filters', 'NineYi.Mall.Utilities']);
+            angular.module('NineYi.Mall')
+                    .provider('SalePageCategoryId', NineYi.Mall.Providers.DataProvider)
+                    .config(['SalePageCategoryIdProvider', function (salePageCategoryIdProvider) {
+                        var salePageCategoryId = parseInt('87757');
+                        salePageCategoryIdProvider.SetData(salePageCategoryId);
+                    }]);
+
+        })();
+    </script>
+
+
+    <script>
+        //// 官網原始Domain
+        var officialOriginDomain = '';
+        //// 官網全域設定ShopId參數
+        angular.module('NineYi.Mall')
+                    .provider('ShopId', NineYi.Mall.Providers.DataProvider)
+                    .provider('UnLoginId', NineYi.Mall.Providers.DataProvider)
+                    .provider('IsThirdpartyAuthMember', NineYi.Mall.Providers.DataProvider)
+                    .provider('ThirdpartyAuthTypeDef', NineYi.Mall.Providers.DataProvider)
+                    .provider('ThirdpartyAuthButtonContent', NineYi.Mall.Providers.DataProvider)
+                    .provider('ThirdpartyAuthIconUrl', NineYi.Mall.Providers.DataProvider)
+                    .provider('ServiceNumber', NineYi.Mall.Providers.DataProvider) //客服專線
+                    .provider('ServiceInfo', NineYi.Mall.Providers.DataProvider) //客服資訊
+                    .provider('OfficialOriginDomain', NineYi.Mall.Providers.DataProvider)
+                    .provider('HomeUrl', NineYi.Mall.Providers.DataProvider)
+                    .provider('ReferrerUrl', NineYi.Mall.Providers.DataProvider)
+                    .provider('QRCodeImageUrl', NineYi.Mall.Providers.DataProvider)
+                    .provider('DownloadAppUrl', NineYi.Mall.Providers.DataProvider)
+                    .config(['FacebookProvider', function(FacebookProvider) {
+                        if(window.location.pathname !== '/V2/Login/Index/'){ //給分享用
+                            FacebookProvider.init({
+                                appId: '1664917157126234',
+                                locale :'zh_TW'})
+                        }else{ ///給登入流程用
+                            FacebookProvider.init({
+                                appId: '372284112972823',
+                                locale :'zh_TW'})
+                        }
+                    }])
+                    .config(['ShopIdProvider',function (shopIdProvider) {
+                        var shopId = parseInt('1769');
+                        shopIdProvider.SetData(shopId);
+                    }])
+                    .config(['UnLoginIdProvider',function (unLoginIdProvider) {
+                        var unLoginId = '';
+                        unLoginIdProvider.SetData(unLoginId);
+                    }])
+                    .config(['IsThirdpartyAuthMemberProvider',function (isThirdpartyAuthMemberProvider) {
+                        var isThirdpartyAuthMember = 'False'.toLocaleLowerCase() === 'true';
+                        isThirdpartyAuthMemberProvider.SetData(isThirdpartyAuthMember);
+                    }])
+                    .config(['ThirdpartyAuthTypeDefProvider',function (thirdpartyAuthTypeDefProvider) {
+                        var thirdpartyAuthTypeDef = '';
+                        thirdpartyAuthTypeDefProvider.SetData(thirdpartyAuthTypeDef);
+                    }])
+                    .config(['ThirdpartyAuthButtonContentProvider',function (thirdpartyAuthButtonContentProvider) {
+                        var thirdpartyAuthButtonContent = '';
+                        thirdpartyAuthButtonContentProvider.SetData(thirdpartyAuthButtonContent);
+                    }])
+                    .config(['ThirdpartyAuthIconUrlProvider',function (thirdpartyAuthIconUrlProvider) {
+                        var thirdpartyAuthIconUrl = '';
+                        thirdpartyAuthIconUrlProvider.SetData(thirdpartyAuthIconUrl);
+                    }])
+                    .config(['ServiceNumberProvider',function (serviceNumberProvider) {
+                        var serviceNumber = '0223037323';
+                        serviceNumberProvider.SetData(serviceNumber);
+                    }])
+                    .config(['ServiceInfoProvider',function (serviceInfoProvider) {
+                        var serviceInfo = '週一～週五，10:00～18:00';
+                        serviceInfoProvider.SetData(serviceInfo);
+                    }])
+                    .config(['OfficialOriginDomainProvider',function (officialOriginDomainProvider) {
+                        var officialOriginDomain = '';
+                        officialOriginDomainProvider.SetData(officialOriginDomain);
+                    }])
+                    .run(['$log', function($log){
+                        $log.debug('Env - TYO-MWEB1');
+                    }])
+                    .config(['HomeUrlProvider',function(HomeUrlProvider){
+                        var HomeUrl = '/v2/official';
+                        HomeUrlProvider.SetData(HomeUrl);
+                    }])
+                    .config(['ReferrerUrlProvider',function (referrerUrlProvider) {
+                        var referrerUrl = '';
+                        document.location.search.replace('?','').split('&').forEach(function(item){
+                           if(item.match(/^rt=/g)){
+                               referrerUrl = decodeURIComponent(item.split('=')[1]);
+                           }
+                        });
+                        if(!referrerUrl) referrerUrl = ''; //end if
+                        referrerUrlProvider.SetData(referrerUrl);
+                    }])
+
+                    .config(['QRCodeImageUrlProvider',function(qrCodeImageUrlProvider){
+                        var QRCodeImage = '<img alt="91mai-qrcode-img" name="91mai_qrcode" src="data:image/gif;base64,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" />'
+                        qrCodeImageUrlProvider.SetData(angular.element(QRCodeImage).attr('src'));
+                    }])
+                    .config(['DownloadAppUrlProvider',function(downloadAppUrlProvider){
+                        downloadAppUrlProvider.SetData({
+                        ios     :'https://itunes.apple.com/tw/app/id1087673916',
+                        android :'https://play.google.com/store/apps/details?id=com.nineyi.shop.s001769'
+                    });
+                }]);
+
+
+            //// Facebook Conversion Pixel Code
+        (function () {
+            var _fbq = window._fbq || (window._fbq = []);
+            if (!_fbq.loaded) {
+                var fbds = document.createElement('script');
+                fbds.async = true;
+                fbds.src = '//connect.facebook.net/en_US/fbds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(fbds, s);
+                _fbq.loaded = true;
+            }
+        })();
+        window._fbq = window._fbq || [];
+    </script>
+
+    
+    <input type="hidden" id="NineYiShopId" value="1769" />
+</body>
+</html>
